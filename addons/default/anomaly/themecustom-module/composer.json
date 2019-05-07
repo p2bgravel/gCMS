@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/themecustom-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\ThemecustomModule\\": "src/"
+        }
+    }
+}
